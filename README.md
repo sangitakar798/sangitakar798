@@ -63,16 +63,6 @@
 | ☁️ Cloud Analytics | AWS |
 | 🏛️ Enterprise & Gov Projects | Real-world deployments at scale |
 
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangitakar&show_icons=true&theme=default&hide_border=true&icon_color=1D9E75&title_color=1D9E75" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangitakar&layout=compact&theme=default&hide_border=true&title_color=1D9E75" height="150" alt="Top Languages" />
-</p>
-
----
 
 ### 🤝 Connect With Me
 
