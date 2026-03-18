@@ -1,43 +1,28 @@
 <h1>Sangita Kar</h1>
-
 ###
-
-<p align="left">💻 Software Developer | Full Stack Engineer<br>🚀 Passionate about building scalable web applications and data-driven systems</p>
-
+<p align="left">📊 Data Analyst | Business Intelligence & Analytics<br>🚀 Passionate about turning raw data into actionable insights and data-driven decisions</p>
 ###
-
 <h2 align="left">About me</h2>
-
 ###
-
-<p align="left">I’m a software developer with experience in designing and building full-stack applications, REST APIs, and data pipelines. I enjoy solving real-world problems using clean architecture and efficient database design.<br><br>🔹 Strong in Backend Development (Node.js, Laravel)<br><br>🔹 Experience with React / Next.js frontend<br><br>🔹 Database design in MySQL & PostgreSQL<br><br>🔹 Worked on real-world government and enterprise-level projects<br><br>🔹 Interested in Data Engineering & Cloud (AWS)</p>
-
+<p align="left">I'm a data analyst with experience in analyzing complex datasets, building dashboards, and delivering insights that drive business decisions. I enjoy uncovering patterns in data and communicating findings through compelling visualizations.<br><br>🔹 Strong in Data Analysis & Visualization (Power BI, Tableau)<br><br>🔹 Proficient in Python for data wrangling & statistical analysis<br><br>🔹 SQL expertise in MySQL & PostgreSQL<br><br>🔹 Experience with real-world government and enterprise-level data projects<br><br>🔹 Interested in Machine Learning & Cloud Analytics (AWS)</p>
 ###
-
-<h2 align="left">I code with</h2>
-
+<h2 align="left">I work with</h2>
 ###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
 ###
