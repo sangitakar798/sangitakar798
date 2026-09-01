@@ -131,10 +131,9 @@ Interactive dashboards, KPIs, DAX measures, and business reporting.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Add your LinkedIn URL]
-* 📧 Email: [Add your Email]
-* 🌐 Portfolio: [Add your Portfolio URL]
-* 🐙 GitHub: [Add your GitHub URL]
+* 💼 LinkedIn: https://www.linkedin.com/in/sangitakar/
+* 📧 Email: sangitakar798@gmail.com
+* 🐙 GitHub: github.com/sangitakar798
 
 ---
 
