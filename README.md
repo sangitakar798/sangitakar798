@@ -1,144 +1,121 @@
-# Hi, I'm Sangita 👋
+# Hi 👋, I'm Sangita Kar
 
-### Junior Data Analyst | Business Intelligence | SQL | Python | Power BI
+### Full Stack Developer | Node.js | React.js | Next.js | REST APIs
 
-I’m a Junior Data Analyst interested in turning raw data into meaningful insights that support better business decisions.
+Full Stack Developer with 1.5+ years of hands-on experience building real-world web applications, REST APIs, admin platforms, and secure backend systems.
 
-I work with **SQL, Python, Excel, Power BI, and data visualization** to clean, analyze, transform, and present data. I enjoy working on real-world datasets and building projects that solve practical business problems.
-
----
-
-## 🛠️ Skills
-
-**Data Analysis**
-
-* SQL
-* Python
-* Pandas
-* NumPy
-* Data Cleaning & Transformation
-* Exploratory Data Analysis (EDA)
-* Data Validation & Reconciliation
-* Statistical Analysis
-
-**Business Intelligence & Visualization**
-
-* Power BI
-* DAX
-* Power Query
-* Excel
-* Pivot Tables
-* Charts & Dashboards
-* KPI Reporting
-
-**Databases**
-
-* MySQL
-* SQL Server
-* PostgreSQL
-
-**Other**
-
-* ETL & Data Processing
-* API Data Extraction
-* Git & GitHub
-* Jupyter Notebook
-* VS Code
+I enjoy building scalable and user-focused applications using modern JavaScript technologies.
 
 ---
 
-## 📊 Featured Projects
+## 👩‍💻 About Me
 
-### 💳 Merchant Payment Reconciliation & SAP B1 Integration
-
-A data reconciliation project designed to compare merchant transactions, invoices, and settlement records.
-
-**Tools:** Python, SQL, Pandas, Excel, Power BI
-
-**Key Work:**
-
-* Cleaned and transformed transaction datasets
-* Matched transactions with merchant invoices
-* Identified missing, duplicate, and mismatched records
-* Performed payment reconciliation
-* Created reporting datasets for business analysis
-* Designed KPIs and dashboards for reconciliation status
+- 💻 Full Stack Developer with 1.5+ years of professional experience
+- ⚡ Experienced in Node.js, Express.js, React.js, Next.js & Laravel
+- 🔐 Experience with JWT Authentication and Role-Based Access Control
+- 🗄️ Worked with MySQL, MongoDB & Redis
+- ☁️ Experience with AWS S3 & AWS IAM
+- 🤖 Built an AI-powered interview preparation platform using MERN + Gemini AI
+- 📊 Experience building admin dashboards, reporting systems and Excel exports
+- 🌱 Currently improving my skills in Full Stack Development, System Design & Cloud
 
 ---
 
-### 📈 Sales Data Analysis & Power BI Dashboard
+## 🛠️ Tech Stack
 
-Analyzed sales data to understand revenue performance, customer behavior, product performance, and regional trends.
+### Frontend
 
-**Tools:** SQL, Python, Power BI, Excel
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-**Key Work:**
+### Backend
 
-* Cleaned and prepared raw sales data
-* Analyzed monthly and yearly sales trends
-* Identified top-performing products and customers
-* Calculated KPIs such as revenue, profit, and growth
-* Built an interactive Power BI dashboard
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
----
+### Databases
 
-### 😊 Customer Sentiment Analysis
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-Analyzed customer feedback to identify sentiment patterns and understand common customer issues.
+### Cloud & Tools
 
-**Tools:** Python, Pandas, NLP, Matplotlib, Power BI
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-**Key Work:**
+### Programming Languages
 
-* Cleaned customer review data
-* Performed text preprocessing
-* Classified customer feedback by sentiment
-* Identified frequently occurring issues
-* Created visual reports to communicate findings
-
----
-
-## 📌 What I Can Do
-
-* Write and optimize SQL queries
-* Clean and transform messy datasets
-* Perform exploratory data analysis
-* Build Power BI dashboards
-* Create automated reports
-* Analyze business KPIs
-* Perform data validation and reconciliation
-* Extract data using APIs
-* Build Python-based data processing workflows
-* Convert business requirements into analytical solutions
-
----
-
-## 📂 Portfolio
-
-🔹 **Data Analytics Projects:**
-Explore my repositories for SQL, Python, Excel, and Power BI projects.
-
-🔹 **SQL Projects:**
-Queries, data cleaning, joins, CTEs, subqueries, window functions, and business analysis.
-
-🔹 **Python Projects:**
-Data cleaning, EDA, automation, API integration, and data processing.
-
-🔹 **Power BI Projects:**
-Interactive dashboards, KPIs, DAX measures, and business reporting.
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 💼 Professional Experience
 
-* 💼 LinkedIn: https://www.linkedin.com/in/sangitakar/
-* 📧 Email: sangitakar798@gmail.com
-* 🐙 GitHub: github.com/sangitakar798
+### Junior Software Developer
+**Vyoma Innovus Pvt. Ltd. | Oct 2023 – May 2025**
+
+- Developed Node.js REST APIs for field-officer platforms.
+- Built multi-tier admin panels with Role-Based Access Control.
+- Developed a cron-based auto-approval system for Police Clearance Certificate applications.
+- Built a gig-worker registration platform with multi-step onboarding and payment integration.
+- Optimized MySQL queries and indexing for applications supporting 50,000+ users.
+- Implemented automated SMS/email notification workflows.
+- Worked with Node.js, Express.js, Laravel, React.js, Next.js, Redux, JWT, Redis, MySQL and AWS S3.
 
 ---
 
-### 🎯 Currently Looking For
+## 🤖 Featured Project
 
-**Junior Data Analyst | Data Analyst | BI Analyst | Business Analyst | Reporting Analyst | MIS Analyst | Data/BI Intern**
+### AI-Powered Interview Preparation Platform
 
-I'm open to opportunities where I can use data analysis, SQL, Python, Excel, and Power BI to solve real business problems and continue growing as a data professional.
+**MERN Stack + Google Gemini AI**
+
+An AI-powered platform that helps candidates prepare for technical and behavioral interviews.
+
+### ✨ Features
+
+- 📄 Resume and self-description analysis
+- 🎯 Job description matching
+- 🤖 AI-generated technical & behavioral interview questions
+- 🧠 Skill-gap analysis
+- 📊 ATS resume analysis
+- 🔑 Keyword alignment & missing keyword detection
+- 📋 Resume structure analysis
+- 🗺️ Personalized preparation roadmap
+- 🔐 JWT authentication
+- 📑 PDF resume parsing
+- 📥 AI-generated resume PDF export
+- 🚀 REST API architecture
+
+### 🧰 Technologies
+
+```text
+React.js
+Node.js
+Express.js
+MongoDB
+JWT
+Google Gemini AI
+Puppeteer
+REST APIs
